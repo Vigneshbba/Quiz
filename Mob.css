@@ -1,0 +1,140 @@
+body
+{
+background-color:black;
+}
+#all
+{
+color:yellow;
+}
+.first
+{
+padding: 10px 20px;
+margin-left:550px;
+margin-top:50px;
+background-color:black;
+color:yellow;
+border-color:blue;
+}
+.second
+{
+padding: 10px 20px;
+color:yellow;
+background-color:black;
+border-color:blue;
+}
+.third
+{
+padding:10px 20px;
+color:yellow;
+border-color:blue;
+background-color:black;
+}
+.four
+{
+padding:10px 20px;
+margin-left:550px;
+margin-top:15px;
+color:yellow;
+background-color:black;
+border-color:blue;
+}
+.five
+{
+padding:10px 20px;
+color:yellow;
+background-color:black;
+border-color:blue;
+}
+.six
+{
+padding: 10px 20px;
+color:yellow;
+background-color:black;
+border-color:blue;
+}
+.seven
+{
+margin-left:550px;
+margin-top:15px;
+padding:10px 20px;
+color:yellow;
+background-color:black;
+border-color:blue;
+}
+.ne
+{
+padding:10px 20px;
+color:yellow;
+background-color:black;
+border-color:blue;
+}
+.neav
+{
+padding:10px 20px;
+color:yellow;
+border-color:blue;
+background-color:black;
+}
+.add
+{
+margin-left:550px;
+margin-top:15px;
+padding:10px 20px;
+color:yellow;
+background-color:black;
+border-color:blue;
+}
+.sub
+{
+padding:10px 20px;
+color:yellow;
+background-color:black;
+border-color:blue;
+}
+.mul
+{
+padding:10px 20px;
+color:yellow;
+background-color:black;
+border-color:blue;
+}
+.div
+{
+margin-left:550px;
+margin-top:10px;
+padding:10px 20px;
+color:yellow;
+background-color:black;
+border-color:blue;
+}
+.tot
+{
+padding:10px 20px ;
+color:yellow;
+background-color:black;
+border-color:blue;
+}
+.box
+{
+
+padding:10px 20px;
+color:yellow;
+background-color:black;
+border-color:blue;
+}
+.butto
+{
+padding:10px 20px;
+color:yellow;
+background-color:black;
+border-color:blue;
+}
+#display
+{
+color:yellow;
+background-color:black;
+border-color:blue;
+margin-top:40px;
+margin-left:550px;
+}
+
